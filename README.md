@@ -4,4 +4,3 @@
 <br></br>
 ![sa11k's GitHub stats](https://github-readme-stats.vercel.app/api?username=sa11k&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa11k&layout=compact)](https://github.com/sa11k/github-readme-stats)
-[![sa11k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sa11k)](https://github.com/sa11k/github-readme-stats)
