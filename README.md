@@ -3,6 +3,6 @@
 - 💻&emsp;<code><a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">**SSAFY(SAMSUNG SOFTWARE ACADEMY FOR YOUTH)**</a></code> 7th Student (2022)&emsp;
 <br></br>
 <div>
-<img style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=sa11k&show_icons=true&theme=buefy&line_height=21"/>&emsp;
-<img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa11k&layout=compact&card_width=350"/>
+<img style="height:130px;" src="https://github-readme-stats.vercel.app/api?username=sa11k&show_icons=true&theme=buefy&line_height=21"/>&emsp;
+<img style="height:130px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa11k&layout=compact&card_width=350"/>
 </div>
