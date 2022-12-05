@@ -1,5 +1,5 @@
 📁 ***portfolio*** 📁
-- [SDK(Song Da Kyung)](https://elemental-tune-647.notion.site/e79d3bad5cf24da5b192d147f7752b47)
+- <code><a href="https://elemental-tune-647.notion.site/e79d3bad5cf24da5b192d147f7752b47">**SDK(Song Da Kyung)**</a></code>
 
 👩🏻‍💻 ***Experience***👩🏻‍💻
 - 🦁&emsp;<code><a href="https://www.likelion.net/">**Likelion at KoreaTech**</a></code> 8th Student (2020), 9th Organizer (2021)&emsp;
