@@ -6,7 +6,7 @@
 - 💻&emsp;<code><a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">**SSAFY(SAMSUNG SOFTWARE ACADEMY FOR YOUTH)**</a></code> 7th Student (2022)&emsp;
 
 📨  ***contact***  📨
-<!-- - 🖥&emsp;<code><a href="https://sa11k.tistory.com/">**tistory**</a></code> -->
+- 🖥&emsp;<code><a href="https://sa11k.tistory.com/">**tistory**</a></code>
 - ✉️&emsp;<code>**sdk4590@gmail.com**</code>
 
 <br>
